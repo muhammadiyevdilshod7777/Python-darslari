@@ -52,3 +52,17 @@
 
 
 # print("salom,dunyo")
+
+
+
+
+# s = str(input("meni ismim shalpar = "))
+
+# print(  "qornim yomon og'riyapti" )
+
+
+
+
+
+fm= str(input("ism kiriting ="))
+print("hush kelip siz",  fm )
