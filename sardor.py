@@ -64,5 +64,108 @@
 
 
 
-fm= str(input("ism kiriting ="))
-print("hush kelip siz",  fm )
+# fm= str(input("nima olmoqchi siz ="))
+# print("qanaqa bulishi kerak,")
+# fm= str(input("bizda hammasidan bor  ="))
+# print("qachon harit qlasiz , =")
+# fm= str(input("unda yaxshi ="))
+# print("tabriklaymiz hujjat larni rasmiylashtiramiz,=")
+
+
+
+# fm= str(input("mashina nomlari ="))
+# print("kobilt",12000)
+# print("malibu",15000)
+# print("niksiya",8000)
+
+
+
+
+
+# fm= str (input(" tuliq isimni kiriting ="))
+# print("salon shuvindir =")
+# fm= str(input("nima olmoqchisiz = "))
+# print("kiling hujatlarni rasmiylashtiramiz lash tizamiz")
+
+
+
+# car0 = {
+#         'model':'lacetti',
+#         'rang':'oq',
+#         'yil':2018,
+#         'narh':13000,
+#         'km':50000,
+#         'korobka':'avtomat'
+#         }
+
+# car1 = {
+#         'model':'nexia 3',
+#         'rang':'qora',
+#         'yil':2015,
+#         'narh':9000,
+#         'km':89000,
+#         'korobka':'mexanika'
+#         }
+
+# car2 = {
+#         'model':'gentra',
+#         'rang':'qizil',
+# #         'yil':2019,
+# #         'narh':15000,
+# #         'km':20000,
+# #         'korobka':'mexanika'
+# #         }
+# car = car0
+# print(f"{car['model'].title()},\
+#   {car['rang']} rang,\
+#   {car['yil']}-yil, {car['narh']}$")
+
+# car = car1
+# print(f"{car['model'].title()},\
+#   {car['rang']} rang,\
+#   {car['yil']}-yil, {car['narh']}$")
+
+# car = car2
+# print(f"{car['model'].title()},\
+#   {car['rang']} rang,\
+#   {car['yil']}-yil, {car['narh']}$")  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

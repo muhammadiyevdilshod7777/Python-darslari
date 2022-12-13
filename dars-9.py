@@ -53,9 +53,6 @@
 
 
 
-
-
-
 # car0 = {
 #         'model':'lacetti',
 #         'rang':'oq',
@@ -77,11 +74,11 @@
 # car2 = {
 #         'model':'gentra',
 #         'rang':'qizil',
-#         'yil':2019,
-#         'narh':15000,
-#         'km':20000,
-#         'korobka':'mexanika'
-#         }
+# #         'yil':2019,
+# #         'narh':15000,
+# #         'km':20000,
+# #         'korobka':'mexanika'
+# #         }
 # car = car0
 # print(f"{car['model'].title()},\
 #   {car['rang']} rang,\
@@ -264,7 +261,7 @@
 
 # # Takroriy ketaversin
 # while True:
-#     qiymat = int(input(savol))
+#     qiymat = int(input(qiymat))
 #     if qiymat<0:
 #         # davom etsin
 #         continue
@@ -338,9 +335,6 @@
 #     print("assalomu alaykum!")
 
 # salom_ber()
-
-
-
 
 
 

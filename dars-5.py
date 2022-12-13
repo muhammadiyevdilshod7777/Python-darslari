@@ -6,8 +6,8 @@
 # elementlari - 5 ta
 # obyekt - 0 dan boshlangan qiymatlar 6ta
 
-# print(viloyatlar[2:])
-# print(viloyatlar[0])
+ #print(viloyatlar[2:])
+ #print(viloyatlar[0])
 
 # viloyatlar o'zgaruvchisini chaqirib [2:] qiymati - ya'ni 2-obyektdan keyingilarini chaqiryabdi
 
