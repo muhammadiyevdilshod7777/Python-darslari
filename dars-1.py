@@ -38,7 +38,7 @@
 
 
 #a = str(input("bizning oila = "))
-#print("men, ukam singlim,dadam,ona
+#print("men, ukam singlim,dadam,onaam)
 
 
 

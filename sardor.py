@@ -133,6 +133,11 @@
 
 
 
+fm = (input("nima olishni estaysiz= " ))
+print("mashina=120000$ ")
+print("tilifon=130")
+print("uy=12500000$")
+fm =(input("kiling xujatlarni rasmiylashtiramiz ="))
 
 
 
@@ -143,10 +148,7 @@
 
 
 
-
-
-
-
+ 
 
 
 
